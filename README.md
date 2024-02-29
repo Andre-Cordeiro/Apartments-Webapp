@@ -11,3 +11,5 @@ Technical Details
 Server-side Application
     - **Architecture:** Layered architecture using Spring framework and Kotlin.
     - **REST API:** Resources include client, owner, apartment, period, booking, and review.
+	-   **Database:** In-memory H2 database preloaded with necessary data.
+	-   **API Documentation:** OpenAPI 3.0.
