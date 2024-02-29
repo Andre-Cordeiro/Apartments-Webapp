@@ -1,6 +1,6 @@
-##Apartment Management System
+## Apartment Management System
 
-#Introduction
+# Introduction
 
 This project focuses on developing an application to manage apartments for a local holiday
 accommodation company. The application handles crucial functionalities such as booking, entry, 
