@@ -1,0 +1,34 @@
+[
+  {
+    "apartName": "Apartamento Lisboa",
+    "clientName": "joao",
+    "checkIn": "23/12/23",
+    "checkOut": "31/12/23",
+    "guests": "3",
+    "id": 1
+  },
+  {
+    "apartName": "Apartamento Barreiro",
+    "clientName": "joao",
+    "checkIn": "23/12/23",
+    "checkOut": "31/12/23",
+    "guests": "3",
+    "id": 2
+  },
+  {
+    "apartName": "Apartamento Aveiro",
+    "clientName": "joao",
+    "checkIn": "23/12/23",
+    "checkOut": "31/12/23",
+    "guests": "3",
+    "id": 3
+  },
+  {
+    "apartName": "Apartamento Barreiro",
+    "clientName": "joao",
+    "checkIn": "23/12/23",
+    "checkOut": "31/12/23",
+    "guests": "3",
+    "id": 4
+  }
+]

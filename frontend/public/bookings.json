@@ -1,0 +1,50 @@
+[
+  {
+    "apartName": "Apartamento Lisboa",
+    "checkIn": "23/12/23",
+    "checkOut": "31/12/23",
+    "guests": "3",
+    "state": "UNDER_CONSIDERATION",
+    "id": 1
+  },
+  {
+    "apartName": "Apartamento Lisboa",
+    "checkIn": "23/12/23",
+    "checkOut": "31/12/23",
+    "guests": "3"
+  },
+  {
+    "apartName": "Apartamento Lisboa",
+    "checkIn": "23/12/23",
+    "checkOut": "31/12/23",
+    "guests": "3"
+  },
+  {
+    "apartName": "Apartamento Aveiro",
+    "clientName": "joao",
+    "checkIn": "23/12/23",
+    "checkOut": "31/12/23",
+    "guests": "3"
+  },
+  {
+    "apartName": "Apartamento Aveiro",
+    "clientName": "joao",
+    "checkIn": "23/12/23",
+    "checkOut": "31/12/23",
+    "guests": "3"
+  },
+  {
+    "apartName": "Apartamento Aveiro",
+    "clientName": "joao",
+    "checkIn": "23/12/23",
+    "checkOut": "31/12/23",
+    "guests": "3"
+  },
+  {
+    "apartName": "Apartamento Aveiro",
+    "clientName": "joao",
+    "checkIn": "23/12/23",
+    "checkOut": "31/12/23",
+    "guests": "3"
+  }
+]

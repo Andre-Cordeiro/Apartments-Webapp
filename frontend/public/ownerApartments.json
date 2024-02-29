@@ -1,0 +1,20 @@
+[
+{
+  "id": 1,
+  "name": "Apartamento Lisboa",
+  "location": "Lisboa",
+  "picture": "home.png"
+},
+{
+"id": 1,
+"name": "Apartamento Barreiro",
+"location": "Lisboa",
+"picture": "home.png"
+},
+  {
+    "id": 1,
+    "name": "Apartamento Aveiro",
+    "location": "Lisboa",
+    "picture": "home.png"
+  }
+]

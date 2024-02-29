@@ -1,0 +1,22 @@
+[
+  {
+    "apartId": 1,
+    "date": "09-12-2023",
+    "available": true
+  },
+  {
+    "apartId": 1,
+    "date": "11-12-2023",
+    "available": true
+  },
+  {
+    "apartId": 1,
+    "date": "13-12-2023",
+    "available": true
+  },
+  {
+    "apartId": 1,
+    "date": "12-12-2023",
+    "available": false
+  }
+]
