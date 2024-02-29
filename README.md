@@ -8,7 +8,7 @@ exit, and state changes of apartments. The system encompasses multiple apartment
 owned by various owners. The key actors include Clients, Managers, and Owners.
 
 Technical Details
-Server-side Application
+Server-side Application  
 **Architecture:** Layered architecture using Spring framework and Kotlin.  
 **REST API:** Resources include client, owner, apartment, period, booking, and review.  
 **Database:** In-memory H2 database preloaded with necessary data.  
