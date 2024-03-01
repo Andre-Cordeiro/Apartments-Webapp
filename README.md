@@ -15,10 +15,10 @@ owned by various owners. The key actors include Clients, Managers, and Owners.
 **Database:** In-memory H2 database preloaded with necessary data.  
 
 ### Client-side Application  
-  Typescript
-  React
-  CSS
-  Redux
+  Typescript  
+  React  
+  CSS  
+  Redux  
 
 ## Project done by: 
 
