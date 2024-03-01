@@ -26,5 +26,12 @@ owned by various owners. The key actors include Clients, Managers, and Owners.
   Alexandre Oliveira 58059  
   Bernardo Silva 57654  
 
+## How to run:  
+  ### Backend:   
+  1.  Run ProjectApplication.kt to start the backend service (inside /project/src/main)  
+
+  ### Frontend:  
+  1. Install project's dependencies with "npm install" (inside /frontend)
+  2. Execute "npm start" to run the script.
 
 
