@@ -1,4 +1,4 @@
-## Apartment Management System
+## Apartment Management System (CIAI)
 
 # Introduction
 
@@ -16,9 +16,9 @@ Server-side Application
 
 # Project done by: 
 
-  André Cordeiro  
-  Alexandre Oliveira  
-  Bernardo Silva  
+  André Cordeiro 57797  
+  Alexandre Oliveira 58059  
+  Bernardo Silva 57654  
 
 
 
