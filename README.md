@@ -1,4 +1,4 @@
-### Apartment Management System (CIAI)
+# Apartment Management System (CIAI)
 
 ## Introduction
 
@@ -9,18 +9,18 @@ owned by various owners. The key actors include Clients, Managers, and Owners.
 
 ## Technical Details 
 
-# Server-side Application  
+### Server-side Application  
 **Architecture:** Layered architecture using Spring framework and Kotlin.  
 **REST API:** Resources include client, owner, apartment, period, booking, and review.  
 **Database:** In-memory H2 database preloaded with necessary data.  
 
-# Client-side Application  
+### Client-side Application  
   Typescript
   React
   CSS
   Redux
 
-# Project done by: 
+## Project done by: 
 
   André Cordeiro 57797  
   Alexandre Oliveira 58059  
